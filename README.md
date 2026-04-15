@@ -1,4 +1,4 @@
-# Tomato-Physiology-Virtuaal-Population-Model
+# Tomato-Physiology-Virtual-Population-Model
 ## Synthetic Tomato Population Modelling for Predicting Physiological Stress Responses Under Environmental Variability
 
 This project develops a **synthetic tomato virtual population model** to study how environmental and management variability across locations and seasons influences key physiological traits.
